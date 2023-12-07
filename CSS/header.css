@@ -1,0 +1,44 @@
+header {
+
+    background: url(https://img.freepik.com/fotos-gratis/luz-do-sol-brilhando-no-topo-de-uma-unica-montanha-ao-por-do-sol-com-ceu-nublado-escuro_181624-377.jpg) no-repeat center; background-size: cover;
+    
+    background: url('../imagens/Foto\ de\ Edson\ Mamote\ Da\ Silva\ \(5\).jpg') top;
+
+        background-size: cover;
+        text-align: center;
+        height: 60vh;
+        padding: 1.05rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        background-attachment: fixed;
+     
+}
+
+header h1 {
+    
+        color:#c5b20b;
+
+}
+
+header .botao {
+
+        color:#ffffff;
+        background: #191970;
+        padding: 0.6rem 1.4rem;
+        font-size: .9rem;
+        border-radius: 5px;
+        transform: skew(-12deg);              
+        
+}
+
+.botao_destaque {
+
+        background: #ffffff;
+        color: #000000;
+        padding: 0.6rem 1.4rem;
+        font-size: .9rem;
+        border-radius: 5px;
+        transform: skew(-12deg);
+}
